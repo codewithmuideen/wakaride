@@ -50,7 +50,7 @@ function Booking() {
           onClick={handleBookClick}
           disabled={!carAmount} // Disable the button if carAmount is zero
         >
-          Book
+          Ride Now
         </button>
 
         {/* Fare Estimate Display */}
