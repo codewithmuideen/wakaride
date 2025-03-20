@@ -1,4 +1,4 @@
-## Ride Application Developed by Muideen Akinroye
+## WakaRide Application Developed by Muideen Akinroye
 ## Getting Started
 
 First, run the development server:
