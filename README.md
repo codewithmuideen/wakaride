@@ -12,5 +12,5 @@ pnpm dev
 # or
 bun dev
 ```
-### NextJS, Tailwind
+### NextJS, React, Tailwind
 
