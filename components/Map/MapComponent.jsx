@@ -22,7 +22,7 @@ export default function OpenRouteImage() {
           style={{ width: "100%", maxWidth: "1000px", height: "auto", border: "2px solid #000" }}
         />
       ) : (
-        <p>Loading image...</p>
+        <p>Loading Map...</p>
       )}
     </div>
   );
